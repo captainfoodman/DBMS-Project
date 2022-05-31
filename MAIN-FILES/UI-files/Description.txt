@@ -1,0 +1,1 @@
+This folder will consist of the main UI files for the web-application. As of now, it only has the files of the first page of the web-application.
