@@ -1,1 +1,2 @@
-
+This is the folder that will have all the main files within. there will be subfolders for different areas of the application.
+ex: A folder for UI, a folder for php etc. The files within this main folder will be linked later.
